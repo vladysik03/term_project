@@ -3,10 +3,11 @@
 <h2 align="center">Описание</h2>
 Добрый день! Мы очень рады, что вы заинтересовались нашим проектом(надеемся он вам понравится). Наш бот осуществляет распознавание лица по видео и фото, которые вы отправите ему. В данном проекте мы задействовали....
 <h2 align="center">Приступая к работе</h2>
-Вам не нужно ничего скачивать, лишь перейти по данной ссылке-<a href="https://t.me/ProProfiling_bot">Ссылка на нашего бота)</a>
+Вам нужно скачать приложение "Telegram" и перейти по данной ссылке-<a href="https://t.me/ProProfiling_bot">Ссылка на нашего бота)</a>
 <h2 align="center">Инструкция к пользованию</h2>
 Чтобы оценить все возможности нашего бота, вам понадобится:
-1)Перейдите в диалог с нашим ботом:
+Для компьютерной версии:
+1)Перейдите в диалог с нашим ботом, запустя скаченное приложение телеграмма:
  <img src="https://sun9-10.userapi.com/s/v1/if2/eja1PoQDJu44y_3ZMRcYPD6fYmynyjrdgM5TUxwEIOuAOx8VxaQIej5OAzbJ3AxmUjwrpqc6pcG0O35OdKJbk-jl.jpg?size=523x439&quality=96&type=album">
  <img src="https://sun9-59.userapi.com/s/v1/if2/fh2pJdTQrbs81T8T95j3kLYrINBD2gbWijHItlPgohiGE6BdaCQ-TEbwRelCrnlktgSiranwABVZTg2MVFdqdxKs.jpg?size=529x172&quality=96&type=album">
 <h3 align="center">Создатели проекта</h3>
