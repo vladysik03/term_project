@@ -5,9 +5,9 @@
 <h2 align="center">Приступая к работе</h2>
 Вам нужно скачать приложение "Telegram" и перейти по данной ссылке-<a href="https://t.me/ProProfiling_bot">Ссылка на нашего бота)</a>
 <h2 align="center">Инструкция к пользованию</h2>
-Чтобы оценить все возможности нашего бота, вам понадобится:
-Для компьютерной версии:
-1)Перейдите в диалог с нашим ботом, запустя скаченное приложение телеграмма:
+Чтобы оценить все возможности нашего бота, вам понадобится:<br>
+Для компьютерной версии:<br>
+1)Перейти в диалог с нашим ботом, запустя скаченное приложение телеграмма:
  <img src="https://sun9-10.userapi.com/s/v1/if2/eja1PoQDJu44y_3ZMRcYPD6fYmynyjrdgM5TUxwEIOuAOx8VxaQIej5OAzbJ3AxmUjwrpqc6pcG0O35OdKJbk-jl.jpg?size=523x439&quality=96&type=album">
  <img src="https://sun9-59.userapi.com/s/v1/if2/fh2pJdTQrbs81T8T95j3kLYrINBD2gbWijHItlPgohiGE6BdaCQ-TEbwRelCrnlktgSiranwABVZTg2MVFdqdxKs.jpg?size=529x172&quality=96&type=album">
 <h3 align="center">Создатели проекта</h3>
