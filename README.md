@@ -6,7 +6,7 @@
 Вам нужно скачать приложение "Telegram" (можно по этой <a href="https://tlgrm.ru/">ссылке</a>) и перейти по <a href="https://t.me/ProProfiling_bot">ссылке нашего бота)</a>
 <h2 align="center">Инструкция к пользованию</h2>
 Чтобы оценить все возможности нашего бота, вам понадобится:<br>
-Для компьютерной версии:<br>
+<h3 Для компьютерной версии:/h3><br>
 1)Перейти в диалог с нашим ботом, запустя скаченное приложение телеграмма:
  <img src="https://sun9-10.userapi.com/s/v1/if2/eja1PoQDJu44y_3ZMRcYPD6fYmynyjrdgM5TUxwEIOuAOx8VxaQIej5OAzbJ3AxmUjwrpqc6pcG0O35OdKJbk-jl.jpg?size=523x439&quality=96&type=album">
  <img src="https://sun9-59.userapi.com/s/v1/if2/fh2pJdTQrbs81T8T95j3kLYrINBD2gbWijHItlPgohiGE6BdaCQ-TEbwRelCrnlktgSiranwABVZTg2MVFdqdxKs.jpg?size=529x172&quality=96&type=album">
